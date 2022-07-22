@@ -1,7 +1,7 @@
-Hi 👋 My name is Subhojeet🙋‍♂️
+Hi, I'm Subhojeet🙋‍♂️
 ========================================
 
-Aspiring data engineer & Lifelong Learner ⭐
+A Microsoft Certified Data Engineer ⭐
 -------------------------------------------
 
 *   ✉️  You can contact me at [subhojeet.bhaduri@gmail.com](mailto:subhojeet.bhaduri@gmail.com)
